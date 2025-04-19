@@ -1,0 +1,144 @@
+.tableop {
+    text-align: justify;
+    text-align: center;
+    color: white;
+}
+.table {
+    text-align: center;
+}
+.trpr {
+    color: white;
+}
+.trh {
+    color: white;
+}
+.li {
+    color: white;
+}
+.na {
+    color: white;
+}
+.k {
+    color: white;
+}
+.rb {
+    color: white;
+}
+.cs {
+    color: white;
+}
+.fr {
+    color: white;
+}
+button {
+    
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    
+}
+.button {
+   background: gray;
+   color: violet;
+   display: block;
+}
+.button:hover .star {
+    display: block;
+    filter: drop-shadow(0 0 10px #fffdef);
+    background-color: red;
+    color: yellowgreen;
+
+}
+    .button:active {
+        color: red;
+        background-color: cyan;
+    }   
+    .menu {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      
+      .dropdown {
+        position: relative;
+      }
+      
+      .submenu {
+        display: none; 
+        position: absolute;
+        background-color: #f0f0f0;
+        list-style: none;
+        padding: 10px;
+        margin: 0;
+        border: 1px solid #ccc;
+      }
+      
+      .dropdown:hover .submenu {
+        display: block; 
+      }
+      div h1 {
+        color: blue;
+         text-transform: uppercase;
+         text-align: center;
+      }
+      div h3 {
+        color: orange;
+        text-transform: uppercase;
+         text-align: center;
+      }
+      .list {
+        color: white;
+        text-transform: uppercase;
+        text-align: center;
+        text-align: justify;
+        margin: 6px 20%;
+      }
+     .kl {
+       
+        padding: 5px;
+        margin: 5px 0;
+     }
+     .ho {
+    border-radius: 45%;
+    text-align: center;
+    background-color: greenyellow;
+    }
+    
+    .ho:hover{
+        background-color: aqua;
+
+    }
+    .ho:active {
+        background-color: yellow;
+    }
+    .ho:visited {
+        background-color: burlywood;
+    }
+    .p::first-letter {
+        font-size: 200%;
+        font-weight: bold;
+        color: white;
+
+      }
+      .p {
+        margin: 10px ;
+        border: 5px solid blue;
+        color: white;
+        text-align: center;
+        text-align: justify;
+        overflow: auto;
+        padding: 15px;
+        border-radius: 10px;
+      }
+      .bo {
+        border: 5px solid red;
+        padding: 10px;
+        margin: 50px;
+        border-radius: 20px;
+        
+      }
+      .list {
+        border: 5px solid red;
+        padding: 40px;
+        border-radius: 10px;
+      }
